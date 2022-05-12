@@ -3,7 +3,7 @@
 		"firstName": "Tharunya ",
 		"lastName": "P",
 		"phoneNumber": "+91-7090406684",
-		"bio": "I'm an Undergraduate Fresher currently pursuing a Bachelors degree in Computer Science and Engineering with Specialization in Artifical Intelligence and Machine Learning  at Sathyabama Institute of Science and Technology. ",
+		"bio": "Hey there! 👋 I am Tharunya, a hackathon enthusiast and a Sophomore student pursuing Computer Science Engineering with specialization in Artificial Intelligence. Learning new techs, thinking of an effective problem-solving approach, making fun graphics are a few things that gets me hyped. As a Core member at @DSC-SIST and @HackClub-SIST, I aim to promote diversity in tech and as #IamRemarkable Facilitator encourage women and underrepresented groups to speak openly about their accomplishments in the workplace and beyond, thereby breaking modesty norms and glass ceilings. Oh, and I love meeting amazing people! Lets Connect.",
     "email": "tharunyapathipati@gmail.com",
     "linkedin": "https://www.linkedin.com/in/tharunya-p-0739711b2/",
 		"github": "https://github.com/Tharunya07"
@@ -11,26 +11,66 @@
 	"experience": [
 		
                                  {
+				"position": "Core- Content Lead",
+				"organization": "DSC-SIST",
+				"aboutWork": "Maintain and manage the community documentation and ideate events",
+				"fromDate": "September 2021",
+				"toDate": "Present"
+		},
+		{
 				"position": "Technical Member",
 				"organization": "DSC-SIST",
-				"aboutWork": "Student space to learn and collaborate with different community solving real-life problems.",
+				"aboutWork": "Collaborated on open-source project – “Event Aggregator” for our college using Yii2 Framework",
 				"fromDate": "January 2021",
+				"toDate": "September 2021"
+		},
+		{
+				"position": "Creative and Designing Intern",
+				"organization": "Raahee",
+				"aboutWork": "Raahee is a mental health application that provides affordable therapy and I work on the creative and Designing team for the company.",
+				"fromDate": "December 2021",
+				"toDate": "March 2022"
+		},
+		{
+				"position": "Winter of code 2.0- Mentee",
+				"organization": "Jina AI",
+				"aboutWork": "Working under the organization Jina AI to develop a Product Look-Alike Search Engine using Jina for the backend which is a neural search framework.",
+				"fromDate": "Decemeber 2021",
+				"toDate": "February 2021"
+		},
+		{
+				"position": "#IamRemarkable Facilitator",
+				"organization": "g.co/IamRemarkable",
+				"aboutWork": "#IamRemarkable is a Google initiative empowering women and other underrepresented groups to celebrate their achievements in the workplace and beyond, thereby breaking modesty norms and glass ceilings. As a Facilitator, my role involves hosting workshops and being an ambassador for #IamRemarkable within my personal and professional networks.",
+				"fromDate": "August 2021",
+				"toDate": "Present"
+		},
+		{
+				"position": "Design Pilot",
+				"organization": "HackClub-SIST",
+				"aboutWork": "Responsible for the organisation's graphics, designing aspects. Assist in organizing events and hackathons. ",
+				"fromDate": "October 2021",
 				"toDate": "Present"
 		}
+		
+		
 ],
   
 	"education": [
                                      {
 			"university": "Sathyabama Institute of Science and Technology",
-			"degree": "Bachelor of Engineering",
-                                                        "gpa": " ",
-		                   "fromDate": "August 2020",
+			"degree": "Bachelor of Engineering- Computer Science Engineering with specialization in Artificial Intelligence and Machine Learning ",
+                        "gpa": "9.7",
+		        "fromDate": "August 2020",
 			"toDate": "Present"
 		}
 	],
 	"skills": [
                                       {
-			"name": "HTML"
+			"name": "HTML/CSS"
+		},
+		{
+			"name": "Python"
 		},
 		{
 			"name": "SQL"
@@ -40,6 +80,9 @@
 		},
 		{
 			"name": "C"
+		},
+		{
+			"name": "UI/UX"
 		}
 
 ],
@@ -47,16 +90,19 @@
 	"interests": {
 		"paragraphOne": "✍ Creative Writing",
 		"paragraphTwo": "📑 Journaling" ,
-                                     "paragraphThree": "💻 Competitive Coding",
-                                     "paragraphFour": " Sports"
+                "paragraphThree": "💻 Competitive Coding",
+                "paragraphFour": " Sports",
 
 	},
 
 	"awards": [{
-			"awardDetail": "Received IT Essentials: PC Hardware and Software from Cisco Networking Academy"
+			"awardDetail": "Best UI/UX Design Winner at HackRU Spring 2021"
 		},
 		{
-			"awardDetail": "Received Beginning C++ Programming - From Beginner to Beyond from Udemy"
+			"awardDetail": "Winner in the Peace-a-Thon Track of Global CyberPeace Challenge 3.0"
+		},
+		{
+			"awardDetail": "AICTE Saksham Scholarship Receipt"
 		}
 		
 	]
